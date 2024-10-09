@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "dgSpecHash": "VHIG3nwgppw=",
+  "success": false,
+  "projectFilePath": "E:\\RiderProjects\\PlzUnitTest\\TestNUnit\\TestNUnit.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 6.0.0)' for 'net8.0'.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 17.8.0)' for 'net8.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NUnit (>= 3.14.0)' for 'net8.0'.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NUnit.Analyzers (>= 3.9.0)' for 'net8.0'.",
+      "libraryId": "NUnit.Analyzers",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NUnit3TestAdapter (>= 4.5.0)' for 'net8.0'.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
